@@ -1,4 +1,4 @@
-### Greeting Traveller 👋 You have stumbled across my GitHub Profile.
+### Greetings Traveller 👋 You have stumbled across my GitHub Profile.
 
 I am Lucas 👌, currently a Frontend Developer/Technical Consultant at Corplite Technologies, a tech startup based in Melbourne where we work on some cool contact tracing applications to make sure everyone stays safe and healthy.
 
