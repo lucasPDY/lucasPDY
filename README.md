@@ -1,6 +1,8 @@
 ### Greetings Traveller 👋 You have stumbled across my GitHub Profile.
 
-I am Lucas 👌, currently a Frontend Developer/Technical Consultant at Corplite Technologies, a tech startup based in Melbourne where we work on some cool contact tracing applications to make sure everyone stays safe and healthy.
+Your journey has been long so feel free to rest your head on my profile page.
+
+Here lies Lucas 👌, currently a Frontend Developer at Corplite Technologies, a tech startup based in Melbourne where we work on some cool contact tracing applications to make sure everyone stays safe and healthy.
 
 ![Lucas GitHub Leaderboards](https://github-readme-stats.vercel.app/api?username=lucasPDY&count_private=true&show_icons=true&theme=dracula)
 
